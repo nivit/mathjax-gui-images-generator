@@ -163,7 +163,7 @@ HEADER:matrix
 \begin{vmatrix} w & x \\ y & z \end{vmatrix}:| (,) |:
 \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}:( (,) ):
 \begin{Vmatrix} w & x \\ y & z \end{Vmatrix}:|| (,) ||:
-\begin{bmatrix} w & x \\ y & z \end{bmatrix}:( (,) ):
+\begin{bmatrix} w & x \\ y & z \end{bmatrix}:[ (,) ]:
 HEADER:accents-text
 \hat{a}:hat(a)
 \check{a}:''
